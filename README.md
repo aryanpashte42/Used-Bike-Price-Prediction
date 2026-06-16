@@ -132,21 +132,22 @@ Feature importance analysis was also performed to identify the most influential 
 
 ## Repository Structure
 
+```bash
 Used-Bike-Price-Prediction/
 │
 ├── Data/
-│   └── raw_data.csv                 # Raw used bike dataset
+│   └── raw_data.csv
 │
 ├── Python/
 │   └── Used_bike_price_prediction.ipynb
-│                                    # Data preprocessing, EDA, feature engineering, and ML models
 │
 ├── Images/
-│   ├── eda.png                      # Exploratory Data Analysis visualizations
-│   └── model_comparison.png         # Comparison of machine learning models
+│   ├── eda.png
+│   └── model_comparison.png
 │
-├── requirements.txt                # Project dependencies
-└── README.md                       # Project documentation
+├── requirements.txt
+└── README.md
+```
 
 
 ## How to Run
